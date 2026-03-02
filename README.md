@@ -1,15 +1,17 @@
 ## Olá! Seja bem-vindo(a) ao meu perfil 👋👨‍💻😁
 
 Sou Desenvolvedor Java e Front-end Júnior, em constante aprendizado e sempre em busca de novos desafios. Gosto de trocar experiências com a comunidade e evoluir tanto em projetos pessoais quanto profissionais.
-Sou apaixonado por tecnologia e também por jogos, filmes, séries e animes, o que me motiva a estar sempre apr
+Sou apaixonado por tecnologia e também por jogos, filmes, séries e animes, o que me motiva a estar sempre aprendendo coisas novas e explorando diferentes áreas do desenvolvimento.
 
-## 💻 Tecnologias e Ferramentas
+⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução!
+
  <div>
    <a href="https://github.com/marques-richard">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marques-richard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marques-richard&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
+
+## 💻 Tecnologias e Ferramentas    
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
