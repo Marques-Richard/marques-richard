@@ -1,8 +1,8 @@
 ## Olá! Seja bem-vindo(a) ao meu perfil 👋👨‍💻😁
 
  <div align="center">
-  <img src="https://raw.githubusercontent.com/Marques-Richard/Marques-Richard/main/github-stats.svg" />
-  <img src="https://raw.githubusercontent.com/Marques-Richard/Marques-Richard/main/github-languages.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marques-Richard&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marques-Richard&layout=compact&theme=tokyonight" />
 </div>
     
 <div style="display: inline_block"><br>
