@@ -1,5 +1,9 @@
 ## Olá! Seja bem-vindo(a) ao meu perfil 👋👨‍💻😁
 
+Sou Desenvolvedor Java e Front-end Júnior, em constante aprendizado e sempre em busca de novos desafios. Gosto de trocar experiências com a comunidade e evoluir tanto em projetos pessoais quanto profissionais.
+Sou apaixonado por tecnologia e também por jogos, filmes, séries e animes, o que me motiva a estar sempre apr
+
+## 💻 Tecnologias e Ferramentas
  <div>
    <a href="https://github.com/marques-richard">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marques-richard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -14,8 +18,7 @@
  
 <br>
  
-### Para falar comigo, é só me chamar em uma das redes abaixo!
- 
+### Para falar comigo, é só me chamar em uma das redes abaixo! 
 <div> 
   <a href="https://www.youtube.com/@tioitthi" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/richard_m_marques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
