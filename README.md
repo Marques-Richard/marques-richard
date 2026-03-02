@@ -7,8 +7,8 @@ Sou apaixonado por tecnologia e também por jogos, filmes, séries e animes, o q
 
  <div>
    <a href="https://github.com/marques-richard">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marques-richard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marques-richard&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marques-richard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marques-richard&layout=compact&langs_count=6&theme=dracula"/>
   </div>
 
 ## 💻 Tecnologias e Ferramentas    
