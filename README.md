@@ -1,8 +1,9 @@
 ## Olá! Seja bem-vindo(a) ao meu perfil 👋👨‍💻😁
 
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marques-Richard&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marques-Richard&layout=compact&theme=tokyonight" />
+ <div>
+   <a href="https://github.com/marques-richard">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marques-richard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marques-richard&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
