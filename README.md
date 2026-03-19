@@ -1,8 +1,10 @@
 ## Olá! Seja bem-vindo(a) ao meu perfil 👋👨‍💻😁
 
-Desenvolvedor Java e Front-End, focado na construção de aplicações eficientes e interfaces modernas. Estou em constante evolução, buscando novos desafios e aprimorando minhas habilidades por meio de projetos práticos e aprendizado contínuo.
+Desenvolvedor Front-End com foco na criação de interfaces modernas, responsivas e funcionais, priorizando sempre a melhor experiência do usuário.
 
-Apaixonado por tecnologia e inovação, encontro inspiração em jogos, filmes, séries e animes para criar soluções criativas e funcionais.
+Tenho experiência com HTML, CSS e JavaScript, desenvolvendo aplicações web interativas e seguindo boas práticas de desenvolvimento, como código limpo, organização e responsividade. Estou em constante evolução, buscando aprimorar minhas habilidades e acompanhar as tendências do desenvolvimento web, com o objetivo de criar soluções cada vez mais eficientes e intuitivas. 🚀
+
+Apaixonado por tecnologia, jogos, filmes e séries, utilizo essa paixão como motivação para aprender e evoluir continuamente. 😊🎮🎬
 
 ⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução!
 
