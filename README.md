@@ -1,7 +1,8 @@
 ## Olá! Seja bem-vindo(a) ao meu perfil 👋👨‍💻😁
 
-Sou Desenvolvedor Java e Front-end Júnior, em constante aprendizado e sempre em busca de novos desafios. Gosto de trocar experiências com a comunidade e evoluir tanto em projetos pessoais quanto profissionais.
-Sou apaixonado por tecnologia e também por jogos, filmes, séries e animes, o que me motiva a estar sempre aprendendo coisas novas e explorando diferentes áreas do desenvolvimento.
+Desenvolvedor Java e Front-End, focado na construção de aplicações eficientes e interfaces modernas. Estou em constante evolução, buscando novos desafios e aprimorando minhas habilidades por meio de projetos práticos e aprendizado contínuo.
+
+Apaixonado por tecnologia e inovação, encontro inspiração em jogos, filmes, séries e animes para criar soluções criativas e funcionais.
 
 ⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução!
 
