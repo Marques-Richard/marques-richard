@@ -4,7 +4,7 @@ Desenvolvedor Front-End com foco na criação de interfaces modernas, responsiva
 
 Tenho experiência com HTML, CSS e JavaScript, desenvolvendo aplicações web interativas e seguindo boas práticas de desenvolvimento, como código limpo, organização e responsividade. Estou em constante evolução, buscando aprimorar minhas habilidades e acompanhar as tendências do desenvolvimento web, com o objetivo de criar soluções cada vez mais eficientes e intuitivas. 🚀
 
-Apaixonado por tecnologia, jogos, filmes e séries, utilizo essa paixão como motivação para aprender e evoluir continuamente. 😊🎮🎬
+Apaixonado por tecnologia, jogos, filmes e séries, utilizo essa paixão como motivação para aprender e evoluir continuamente... 😊🎮🎬
 
 ⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução!
 
