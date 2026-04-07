@@ -9,9 +9,9 @@ Apaixonado por tecnologia, jogos, filmes e séries, utilizo essa paixão como mo
 ⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução!
 
  <div>
-   <a href="https://github.com/marques-richard"></a>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marques-richard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marques-richard&layout=compact&langs_count=6&theme=dracula"/>
+   <a href="https://github.com/Marques-Richard"></a>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marques-Richard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marques-Richard&layout=compact&langs_count=6&theme=dracula"/>
   </div>
 
 ## 💻 Tecnologias e Ferramentas    
